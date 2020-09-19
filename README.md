@@ -6,6 +6,8 @@
   - re 
   - nltk 
   - matplotlib.pyplot 
-  - string 
+  - string
+  - Sastrawi
+  - sklern
   
  Menggunakan Anaconda https://www.anaconda.com/
