@@ -1,11 +1,11 @@
 # Sentimen_Knn_App
 
-Library yang digunakan :\
-  numpy \
-  pandas \
-  re \
-  nltk \
-  matplotlib.pyplot \
-  string \
+<strong> Library yang digunakan : </strong> 
+  - numpy 
+  - pandas 
+  - re 
+  - nltk 
+  - matplotlib.pyplot 
+  - string 
   
  Menggunakan Anaconda https://www.anaconda.com/
