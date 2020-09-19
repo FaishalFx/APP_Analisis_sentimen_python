@@ -2,8 +2,8 @@
 
 
 
-<strong> Menggunakan Anaconda https://www.anaconda.com </strong> 
-<strong> Library yang digunakan : </strong> 
+<strong> Menggunakan Anaconda https://www.anaconda.com </strong> \
+<strong> Library yang digunakan : </strong>
   - numpy 
   - pandas 
   - re 
