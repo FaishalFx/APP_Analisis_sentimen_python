@@ -1,11 +1,11 @@
 # Sentimen_Knn_App
 
 Library yang digunakan :
-  1.
-  2.
-  3.
-  4.
-  5.
-  6.
+  numpy
+  pandas 
+  re
+  ltk 
+  matplotlib.pyplot
+  string
   
  Menggunakan Anaconda https://www.anaconda.com/
